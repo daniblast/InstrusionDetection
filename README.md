@@ -1,7 +1,7 @@
 # InstrusionDetection
 Embedded Systems
 
-Frrom Odd Shift - 17h-18h30 - G1
+Frrom Odd Shift - 17h-18h30 - G4
 
 Members:
 - DANIEL CORREIA - 84587
