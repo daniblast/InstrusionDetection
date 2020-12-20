@@ -1,3 +1,15 @@
+/*******************************************************************************
+ *
+ * Module       : main.c
+ * Description  : System initialisation
+ * Tool Chain   : Tiva TM4C123G Launchpad Board
+ * Platform     : Code Composer Studio
+ * History      :
+ * Author       : Daniel Correia, Romain Ogée, Louis Cotillard - Embedded Systems Group 4
+ * Notes        : Refer to the Tiva Family documentation and to http://groups.ist.utl.pt/~rsense.daemon/SisEmb/Intrusion%20Detector/
+ *
+ *******************************************************************************/
+
 #include <stdbool.h>
 #include <stdint.h>
 #include <lcd.h>
