@@ -1,3 +1,16 @@
+/*******************************************************************************
+ *
+ * Module       : lcd.h
+ * Description  : Initialise the LCD and display
+ * Tool Chain   : HITACHI HD44780
+ * Platform     : Code Composer Studio
+ * History      :
+ * Author       :
+ * Notes        : Refer to the HD44780 documentation
+ *                Daniel Correia, Romain Ogée, Louis Cotillard - Embedded Systems Group 4
+ *
+ *******************************************************************************/
+
 #ifndef LCD_H_
 #define LCD_H_
 
