@@ -6,7 +6,8 @@
  * Platform     : Code Composer Studio
  * History      :
  * Author       :
- * Notes        : Refer to the VL53L0X LIDAR documentation / Daniel Correia, Romain Ogée, Louis Cotillard - Embedded Systems Group 4
+ * Notes        : Refer to the VL53L0X LIDAR documentation
+ *                Daniel Correia, Romain OgÃ©e, Louis Cotillard - Embedded Systems Group 4
  *
  *******************************************************************************/
 
